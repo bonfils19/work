@@ -1,0 +1,58 @@
+body{
+    font-family: sans-serif;
+}
+#firstbar{
+    width: 6cm;
+    height: 1cm;
+    border: solid;
+    border-radius: 13px;
+}
+#lastbar{
+    width: 6cm;
+    height: 1cm;
+    border: solid;
+    border-radius: 13px;
+}
+#emailbar{
+    width: 6cm;
+    height: 1cm;
+    border: solid;
+    border-radius: 13px;
+}
+#passwordbar{
+    width: 6cm;
+    height: 1cm;
+    border: solid;
+    border-radius: 13px;
+}
+#agreebar{
+    border: solid;
+    border-radius: 5px;
+}
+button{
+    border: hidden;
+    border-radius: 4px;
+    font-weight: 800;
+    width: 2cm;
+    height: .9cm;
+    
+    color: brown;
+    background-color: rgb(88, 82, 82);
+
+}
+.box{
+    border: solid;
+    border-radius: 30px;
+    background-color: rgb(39, 38, 38);
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    margin-top: 12%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 4cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+h1{
+    margin-bottom: 20px;
+}

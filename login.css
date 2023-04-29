@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(8C, 83, 83);
+    font-family: verdana;
+}
+#namebar{
+    width: 6cm;
+    height: 1cm;
+    border: solid;
+    border-radius: 13px;
+}
+#passbar{
+    width: 6cm;
+    height: 1cm;
+    border: solid;
+    border-radius: 13px;
+}
+.box{
+    border: solid;
+    border-style: solid;
+    border-radius: 30px;
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    margin-top: 12%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 4cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+button{
+    border: none;
+    border-radius: 4px;
+    font-weight: 800;
+    width: 2cm;
+    height: .9cm;
+    color: brown;
+    background-color: rgb(88, 82, 82);
+}
+
